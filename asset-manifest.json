@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/008_merns/static/css/main.f855e6bc.css",
+    "main.js": "/008_merns/static/js/main.f8d175d2.js",
+    "static/js/592.aae77644.chunk.js": "/008_merns/static/js/592.aae77644.chunk.js",
+    "static/media/Bharath.jpg": "/008_merns/static/media/Bharath.3643e5ecf5f3b4202915.jpg",
+    "index.html": "/008_merns/index.html",
+    "main.f855e6bc.css.map": "/008_merns/static/css/main.f855e6bc.css.map",
+    "main.f8d175d2.js.map": "/008_merns/static/js/main.f8d175d2.js.map",
+    "592.aae77644.chunk.js.map": "/008_merns/static/js/592.aae77644.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f8d175d2.js"
+  ]
+}
